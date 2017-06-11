@@ -1,0 +1,22 @@
+{
+  "id": "3e311efc-22e9-425a-a2c5-6a4ac972e100",
+  "name": "CleanCode",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "10.0.0.0",
+  "application": {
+    "version": "10.0.0.0",
+    "locale": "US"
+  }
+}
